@@ -36,8 +36,7 @@ Update code to reference a new version number with each new release.
 - [Working with a GitHub Packages Registry - GitHub Docs](https://docs.github.com/en/packages/working-with-a-github-packages-registry)
 
 ## Using the Exercise Files
-1. Create a new repo and upload the files for this lesson
-    Note that the Java files need to be located in subdirectories.
+1. Create a new repo and upload the files for this lesson.  Note that the Java files need to be located in subdirectories.
 
     Specifically, the file [HelloActions.java](./src/main/java/com/example/HelloActions.java) needs to have the following path:
 
